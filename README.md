@@ -1,1 +1,2 @@
-# League-of-Legends-Classifier
+# League of Legends Classifier
+### Vishwak Pabba and Manav Jairam
